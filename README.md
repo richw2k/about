@@ -4,7 +4,7 @@
 
 _Over 8 years experience in making complicated things simple and easy to understand._
 
-This respository serves as a single, constantly up-to-date showcase of my experience, qualifications, and technical proficiency with GitHub, MadCap Flare, Markdown, and API documentation.<br><br>
+This respository serves as a single, constantly up-to-date showcase of my technical writing experience and qualifications as well as my technical proficiency with GitHub, MadCap Flare, Markdown, and API documentation.<br><br>
 
 ## :briefcase: Portfolio
 
