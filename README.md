@@ -8,7 +8,9 @@ This respository serves as a single, constantly up-to-date showcase of my techni
 
 ## :briefcase: Portfolio
 
-
+- [Sample User Manual](https://github.com/richw2k/tech-writer/blob/main/sample-user-manual.pdf) created in MadCap Flare (publicly available [here](https://customer-doc.cloud.gehealthcare.com/#/cdp/dashboard))
+- [Sample API reference doc](https://github.com/richw2k/tech-writer/blob/main/sample-developer-api-reference-doc.md) written by developers
+- [Sample API Document](https://github.com/richw2k/tech-writer/blob/main/sample-api-document.md) based on the reference doc<br><br>
 
 ## :black_nib: Technical Experience
 
