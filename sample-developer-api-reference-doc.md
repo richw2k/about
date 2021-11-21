@@ -4,7 +4,7 @@ Fan Anthem is a new app that lets football fans upload original songs to their p
 
 The following is a basic example of a reference document written by a Fan Anthem developer. It includes info on how sound files are uploaded to a user's own profile and how to get information on sound files for a user. 
 
-See the final API documentation I created based on this information.
+See the [final API documentation](https://github.com/richw2k/tech-writer/blob/main/sample-api-document.md) I created based on this information.
 
 **Note:** Useful information has been purposely omitted to simulate a real-world scenario. A tech writer will use their experience as well as testing the API and asking developers for more info to complete the task.<br><br>
 
