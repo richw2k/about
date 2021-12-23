@@ -8,9 +8,11 @@ This respository serves as a single, constantly up-to-date showcase of my techni
 
 ## :briefcase: Portfolio
 
-- [Sample User Manual](https://github.com/richw2k/tech-writer/blob/main/sample-user-manual.pdf) created in MadCap Flare (publicly available [here](https://customer-doc.cloud.gehealthcare.com/#/cdp/dashboard))
-- [Sample API reference doc](https://github.com/richw2k/tech-writer/blob/main/sample-developer-api-reference-doc.md) written by developers
-- [Sample API Document](https://github.com/richw2k/tech-writer/blob/main/sample-api-document.md) based on the reference doc<br><br>
+- [Sample User Manual](https://github.com/richw2k/tech-writer/blob/main/ccw-user-manual.pdf) for GE Healthcare's CCW created in MadCap Flare (publicly available [here](https://customer-doc.cloud.gehealthcare.com/#/cdp/dashboard))
+- [Sample Stripe Usage Records API Document](https://github.com/richw2k/tech-writer/blob/main/stripe-usage-records-api.yaml) in the Swagger 2.0 format based on the information found on the [Stripe website](https://stripe.com/docs/api/usage_records)
+- [Sample Candy Shop Analytics API Document](https://github.com/richw2k/tech-writer/blob/main/candy-shop-analytics-api-document.yaml) in the OpenAPI 3.0 format based on the [sample reference doc](https://github.com/richw2k/tech-writer/blob/main/candy-shop-analytics-api-reference.md)<br><br>
+
+Feel free to try out my sample API defnition files in the [Swagger Editor](https://editor.swagger.io/)<br><br>
 
 ## :black_nib: Technical Experience
 
