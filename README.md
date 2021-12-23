@@ -12,7 +12,7 @@ This respository serves as a single, constantly up-to-date showcase of my techni
 - [Sample Stripe Usage Records API Document](https://github.com/richw2k/tech-writer/blob/main/stripe-usage-records-api.yaml) in the Swagger 2.0 format based on the information found on the [Stripe website](https://stripe.com/docs/api/usage_records)
 - [Sample Candy Shop Analytics API Document](https://github.com/richw2k/tech-writer/blob/main/candy-shop-analytics-api-document.yaml) in the OpenAPI 3.0 format based on the [sample reference doc](https://github.com/richw2k/tech-writer/blob/main/candy-shop-analytics-api-reference.md)<br><br>
 
-Feel free to try out my sample API defnition files in the [Swagger Editor](https://editor.swagger.io/)<br><br>
+Feel free to try out my sample API defnition files in the [Swagger Editor](https://editor.swagger.io/) and you can check out my Postman version of the Candy Shop API [here](https://documenter.getpostman.com/view/18224405/UVR4PAbT)<br><br>
 
 ## :black_nib: Technical Experience
 
