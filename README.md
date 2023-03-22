@@ -2,9 +2,9 @@
 
 # Richard Walker &ndash; Technical Writer
 
-_Over 8 years experience in making complicated things simple and easy to understand._
+_10 years experience in making complicated things simple and easy to understand._
 
-This respository serves as a single, constantly up-to-date showcase of my technical writing experience and qualifications as well as my technical proficiency with GitHub, MadCap Flare, Markdown, and API documentation.<br><br>
+This respository serves as a showcase of my technical writing experience and qualifications as well as my technical proficiency with GitHub, MadCap Flare, Markdown, and API documentation.<br><br>
 
 ## :briefcase: Portfolio
 
@@ -16,8 +16,14 @@ Feel free to try out my sample API defnition files in the [Swagger Editor](https
 
 ## :black_nib: Technical Experience
 
+**Technical Author** @ [CloudFactory](https://www.linkedin.com/company/cloudfactory-com) - Reading, UK (Remote) _(March 2022 - April 2023)_ <br>
+Workforce solutions for machine learning and business process optimization.
+  - Develop a deep understanding of product capabilities through consistent use and close collaboration with product operations, product managers, and other subject matter experts in order to create and publish help centre articles and API documentation for internal and external users using a variety of tools.
+  - Establish best practices and create communication sets for new feature releases, including in-app guides, contextual help, articles, images, emails, announcements, and other content as needed.
+  - **_Tools/Technologies used:_** Paligo, Zendesk, Jira, Confluence.<br><br>
+
 **Senior Technical Writer** @ [GE Healthcare](https://www.linkedin.com/company/gehealthcare) - Freiburg, Germany _(May 2016 - October 2021)_ <br>
-Medical software for all data management in the cardiovascular department.
+Medical software for data management in the cardiovascular department.
   - Work with software developers, QA engineers, product owners, project managers, regulatory, and other SMEs in an agile environment to understand workflows and identify prioritization for documentation needs.
   - Write and revise technical documentation for software applications for various audiences with strict adherence to medical device standards.
   - Create and manage translation of user and security manuals in a single-source, structured XML authoring environment.
