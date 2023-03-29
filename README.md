@@ -18,21 +18,29 @@ Feel free to try out my sample API defnition files in the [Swagger Editor](https
 
 **Technical Author** @ [CloudFactory](https://www.linkedin.com/company/cloudfactory-com) - Reading, UK (Remote) _(March 2022 - April 2023)_ <br>
 Workforce solutions for machine learning and business process optimization.
-  - Develop a deep understanding of product capabilities through consistent use and close collaboration with product operations, product managers, and other subject matter experts in order to create and publish help centre articles and API documentation for internal and external users using a variety of tools.
-  - Establish best practices and create communication sets for new feature releases, including in-app guides, contextual help, articles, images, emails, announcements, and other content as needed.
+  - Created and published help centre articles and API documentation for internal and external users using a variety of tools, including Paligo (XML), Zendesk, and Confluence.
+  - Established best practices and templates for documentation sets including 101s, in-app guides, contextual help, and recipes.
+  - Developed a deep understanding of product capabilities through consistent use and close collaboration with colleagues in UK, USA, Kenya, and Nepal.
+  - Used Jira to analyze requirements and acceptance criteria of user stories, as well as plan and manage documentation-related tasks.
+  - Created communication sets for new feature releases, including blog posts, images, emails, announcements, and other content as needed.
   - **_Tools/Technologies used:_** Paligo, Zendesk, Jira, Confluence.<br><br>
 
 **Senior Technical Writer** @ [GE Healthcare](https://www.linkedin.com/company/gehealthcare) - Freiburg, Germany _(May 2016 - October 2021)_ <br>
 Medical software for data management in the cardiovascular department.
-  - Work with software developers, QA engineers, product owners, project managers, regulatory, and other SMEs in an agile environment to understand workflows and identify prioritization for documentation needs.
-  - Write and revise technical documentation for software applications for various audiences with strict adherence to medical device standards.
-  - Create and manage translation of user and security manuals in a single-source, structured XML authoring environment.
+  - Audited existing documentation and owned the entire content management strategy as the first and only technical writer in the department.
+  - Established a single-source, structured authoring environment using MadCap Flare and developed rules for stylesheets (CSS), master pages, and topics.
+  - Took immediate and complete ownership of the user manual translation process, resulting in significantly decreased costs and turnaround times.
+  - Worked with software developers, quality assurance engineers, product owners, project managers, and other subject matter experts in an agile environment to understand workflows and identify prioritization for documentation needs.
+  - Wrote technical content for software applications and produced release notes and other documentation sets for various audiences with strict adherence to medical device, risk mitigation, and regulatory standards.
+  - Revision controlled documents using a variety of media and tools, including GE’s internal documentation portals, Microsoft Team Foundation Server, and Git.
   - **_Tools/Technologies used:_** MadCap Flare, Git, Team Foundation Server, Confluence.<br><br>
 
 **Technical Writer** @ [Transcend](https://www.linkedin.com/company/transcend-information-inc./) - Taipei, Taiwan _(September 2011 - April 2014)_ <br>
 Manufacture of storage, multimedia and industrial products.
-  - Create user manuals and quick start guides explaining how to use Transcend products safely and as intended.
-  - Confirm that package design, package information, package inserts, and product datasheets are accurate and error-free.
+  - Created user manuals and quick start guides that explained in simple, easy to understand terms how to use Transcend products safely and as intended.
+  - Wrote engaging marketing content and collaborated with designers to create product description pages, articles, Amazon content, press releases, and newsletters.
+  - Confirmed that package design, package information, package inserts, and product datasheets were accurate and error-free as well as appealing and on-brand.
+  - Worked closely with translators in Transcend’s global branch offices to ensure that all user manuals followed specific guidelines and contained up-to-date information.
   - **_Tools/Technologies used:_** Word, PowerPoint.<br><br>
 
 ## :man_student: Education
